@@ -40,8 +40,3 @@ Pour modifier les messages chiffrés, les messages clairs ou bien les clés maî
 # Auteurs
 
 * **Quentin GRUCHET** _alias_ [@QGruchet](https://github.com/QGruchet) sur GitHub
-
-# License
-
-Ce projet est sous licence ``MIT``.
-
